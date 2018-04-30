@@ -1,0 +1,1 @@
+# ninja-ripper-ms-master
