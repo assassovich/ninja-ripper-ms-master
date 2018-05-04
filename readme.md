@@ -28,6 +28,6 @@ original https://github.com/dave-newson/ninja-ripper-ms
 
 - need material number changer, for multi-material Meshes. The "raw" script of this function that is not intended for the end user is in the folder \ninja-ripper\ninja-ripper-ms-master\src\Future features (todo)\change material number.ms (disable this if you add folder in the startup folder)
 - need add button "import from scetchfab" from official ninjaripper_importer_8_version.
-
+- need collision-generator: The tools available in the network do not meet the minimum requirements for matching collision generation for complex objects to the degree of quality and optimization that can be achieved by creating a collision manually.
 
 
