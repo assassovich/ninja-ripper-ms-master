@@ -27,6 +27,7 @@ original https://github.com/dave-newson/ninja-ripper-ms
 # Future features (todo)
 
 - need material number changer, for multi-material Meshes. The "raw" script of this function that is not intended for the end user is in the folder \ninja-ripper\ninja-ripper-ms-master\src\Future features (todo)\change material number.ms (disable this if you add folder in the startup folder)
+- need add button "import from scetchfab" from official ninjaripper_importer_8_version.
 
 
 
